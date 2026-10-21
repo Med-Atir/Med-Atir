@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohammed Atir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Engineering+Student;C+++%26+Qt6+Software+Developer;Python+Data+Analysis+%26+Network+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Engineering+Student;Cpp+%26+Qt6+Software+Developer;Python+Data+Analysis+%26+Network+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
