@@ -13,12 +13,12 @@
 
 ### 🏆 Certifications
 
+*   **Governance, Risk, Compliance, and Data Privacy** – IBM.
+*   **Data Analysis with Python** – freeCodeCamp.
+*   **Foundational C# with Microsoft** – freeCodeCamp.
 *   **Cybersecurity Fundamentals Associate** – OPSWAT Academy.
 *   **Introduction to CIP (Critical Infrastructure Protection)** – OPSWAT Academy.
 *   **Introduction to Cybersecurity** – Cisco.
-*   **Data Analysis with Python** – freeCodeCamp.
-*   **Foundational C# with Microsoft** – freeCodeCamp.
-*   **Governance, Risk, Compliance, and Data Privacy** – IBM.
 
 ---
 
