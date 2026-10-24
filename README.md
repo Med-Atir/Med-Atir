@@ -36,6 +36,11 @@
 | **[E-Class (Web)](https://github.com/Med-Atir/E-class-web-version-)** | Web-based counterpart for the educational management system. | `PHP` |
 | **MyHospital** | OOP-based healthcare center management system with a graphical interface and database interaction. | `C++` |
 
+#### 🧮 Computational Mathematics
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[SOR-Calculator (Desktop)](https://github.com/Med-Atir/SOR_Calculator)** | High-performance desktop application to solve matrix algebra equations using SOR method. | `Python` |
+
 #### 📊 Data Analysis Portfolio
 *A collection of analytical models built for the freeCodeCamp Data Analysis certification:*
 *   📈 **[Page-View-Time-Series-Visualizer](https://github.com/Med-Atir/Page-View-Time-Series-Visualizer):** Time series data visualization.
