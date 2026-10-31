@@ -13,6 +13,7 @@
 
 ### 🏆 Certifications
 
+*   **Vulnerability Management** – IBM.
 *   **Governance, Risk, Compliance, and Data Privacy** – IBM.
 *   **Data Analysis with Python** – freeCodeCamp.
 *   **Foundational C# with Microsoft** – freeCodeCamp.
