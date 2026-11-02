@@ -13,6 +13,10 @@
 
 ### 🏆 Certifications
 
+*   **Incident Response and Systems Forensics** – IBM.
+*   **Security Operations and Management** – IBM.
+*   **System and Network Security** – IBM.
+*   **Cloud Security** – IBM.
 *   **Vulnerability Management** – IBM.
 *   **Governance, Risk, Compliance, and Data Privacy** – IBM.
 *   **Data Analysis with Python** – freeCodeCamp.
