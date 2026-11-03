@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Mohammed Atir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Engineering+Student;Cpp+%26+Qt6+Software+Developer;Python+Data+Analysis+%26+Network+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+And+AI+Engineering+Student;Cpp+And+Qt6+Software+Developer;Python+Data+Analysis+And+Network+Security+And Systems Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💻 Engineering cycle student in Information Systems Security & Cyberdefense (ISSIC) at ESI Rabat.<br>
-  🛡️ Focused on secure systems architecture, machine learning for intrusion detection, and data engineering.
+  💻 Engineering cycle student in Information Systems Security & Cybersecurity (ISSIC) at ESI Rabat.<br>
+  🛡️ Focused on secure systems architecture,Low level security, machine learning for intrusion detection.
 </p>
 
 ---
