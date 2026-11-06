@@ -13,6 +13,8 @@
 
 ### 🏆 Certifications
 
+*   **Intermediate machine learning** – Kaggle.
+*   **Intro to machine learning** – Kaggle.
 *   **Incident Response and Systems Forensics** – IBM.
 *   **Security Operations and Management** – IBM.
 *   **System and Network Security** – IBM.
