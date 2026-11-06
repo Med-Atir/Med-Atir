@@ -90,7 +90,8 @@
 <!-- Networking & Cybersecurity -->
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-465362?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Autopsy-00599C?style=for-the-badge&logoColor=white" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
