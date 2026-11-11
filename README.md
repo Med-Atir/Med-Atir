@@ -35,19 +35,17 @@
 #### 🛡️ Cybersecurity & AI
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | An IDS/IPS intrusion detection tool based on machine learning models using popular cybersecurity datasets. | `Python`, `Machine Learning` |
+| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | An IDS/IPS intrusion detection tool based on machine learning models using popular cybersecurity datasets. | `Python`,`Machine Learning`,`PyQt6`|
 
 #### 💻 Software Engineering (Desktop & Web)
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[E-Class (Desktop)](https://github.com/Med-Atir/E-class-desktop-version-)** | High-performance desktop application structured for educational management. | `C++` |
-| **[E-Class (Web)](https://github.com/Med-Atir/E-class-web-version-)** | Web-based counterpart for the educational management system. | `PHP` |
-| **MyHospital** | OOP-based healthcare center management system with a graphical interface and database interaction. | `C++` |
-
+| **[E-Class (Desktop)](https://github.com/Med-Atir/E-class-desktop-version-)** | High-performance desktop application structured for educational management. | `C++`,`Qt`,`SQLite`|
+| **[E-Class (Web)](https://github.com/Med-Atir/E-class-web-version-)** | Web-based counterpart for the educational management system. | `HTML`,`CSS`,`JS`,`PHP`,`MYSQL`|
 #### 🧮 Computational Mathematics
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[SOR-Calculator (Desktop)](https://github.com/Med-Atir/SOR_Calculator)** | High-performance desktop application to solve matrix algebra equations using SOR method. | `Python` |
+| **[SOR-Calculator (Desktop)](https://github.com/Med-Atir/SOR_Calculator)** | High-performance desktop application to solve matrix algebra equations using SOR method. | `Python`,`PyQt6`|
 
 #### 📊 Data Analysis Portfolio
 *A collection of analytical models built for the freeCodeCamp Data Analysis certification:*
