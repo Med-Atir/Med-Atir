@@ -13,6 +13,7 @@
 
 ### 🏆 Certifications
 
+*   **Intro to Data Engineering** – 365 Data Science.
 *   **Intermediate machine learning** – Kaggle.
 *   **Intro to machine learning** – Kaggle.
 *   **Incident Response and Systems Forensics** – IBM.
