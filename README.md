@@ -13,6 +13,7 @@
 
 ### 🏆 Certifications
 
+*   **Deep Learning with Pytorch** – 365 Data Science.
 *   **Intro to Data Engineering** – 365 Data Science.
 *   **Intermediate machine learning** – Kaggle.
 *   **Intro to machine learning** – Kaggle.
