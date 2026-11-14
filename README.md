@@ -35,7 +35,7 @@
 #### 🛡️ Cybersecurity & AI
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | NetAssas: ML-Assisted Packet Sniffer & Traffic Analyzer. | `Python`,`Machine Learning`,`PyQt6`|
+| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | ML-Assisted packet sniffer and traffic analyzer in real time, combining live packet capture via **Scapy** with lightweight Machine Learning inference (**XGBoost** and **Isolation Forest**). | `Python`,`Machine Learning`,`PyQt6`|
 
 #### 💻 Software Engineering (Desktop & Web)
 | Project | Description | Tech Stack |
