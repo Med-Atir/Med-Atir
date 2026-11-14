@@ -35,7 +35,7 @@
 #### 🛡️ Cybersecurity & AI
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | An IDS/IPS intrusion detection tool based on machine learning models using popular cybersecurity datasets. | `Python`,`Machine Learning`,`PyQt6`|
+| **[NetAssas](https://github.com/Med-Atir/NetAssas)** | NetAssas: ML-Assisted Packet Sniffer & Traffic Analyzer. | `Python`,`Machine Learning`,`PyQt6`|
 
 #### 💻 Software Engineering (Desktop & Web)
 | Project | Description | Tech Stack |
