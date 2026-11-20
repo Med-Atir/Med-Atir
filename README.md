@@ -43,6 +43,12 @@
 | :--- | :--- | :--- |
 | **[E-Class (Desktop)](https://github.com/Med-Atir/E-class-desktop-version-)** | High-performance desktop application structured for educational management. | `C++`,`Qt`,`SQLite`|
 | **[E-Class (Web)](https://github.com/Med-Atir/E-class-web-version-)** | Web-based counterpart for the educational management system. | `HTML`,`CSS`,`JS`,`PHP`,`MYSQL`|
+
+#### ⚙️ Systems Programming & OS Internals
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[POSIX](https://github.com/Med-Atir/)** | From-scratch C implementation of Dijkstra's semaphores (P/V) on Linux for the Producer-Consumer problem. | `C`|
+
 #### 🧮 Computational Mathematics
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
