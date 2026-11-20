@@ -47,7 +47,7 @@
 #### ⚙️ Systems Programming & OS Internals
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[POSIX](https://github.com/Med-Atir/)** | From-scratch C implementation of Dijkstra's semaphores (P/V) on Linux for the Producer-Consumer problem. | `C`|
+| **[POSIX]([https://github.com/Med-Atir/](https://github.com/Med-Atir/posix-semaphores-from-scratch))** | From-scratch C implementation of Dijkstra's semaphores (P/V) on Linux for the Producer-Consumer problem. | `C`|
 
 #### 🧮 Computational Mathematics
 | Project | Description | Tech Stack |
