@@ -36,6 +36,7 @@
 #### 🛡️ Cybersecurity & AI
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[NetSentry](https://github.com/Med-Atir/NetSentry)** | Native C++17 NIDS combining low-level **PcapPlusPlus** packet/TCP flag inspection and 30-feature flow telemetry with hybrid AI inference (**LightGBM** + **Isolation Forest** via **ONNX Runtime**) and **SQLite** alert logging. | `C++17`,`Machine Learning`,`Qt 6`,`ONNX Runtime`,`SQLite`|
 | **[NetAssas](https://github.com/Med-Atir/NetAssas)** | ML-Assisted packet sniffer and traffic analyzer in real time, combining live packet capture via **Scapy** with lightweight Machine Learning inference (**XGBoost** and **Isolation Forest**). | `Python`,`Machine Learning`,`PyQt6`|
 
 #### 💻 Software Engineering (Desktop & Web)
